@@ -1,0 +1,108 @@
+body {
+    max-width: 100%;
+}
+
+div.siteHeader {
+    display: inline-block;
+    margin-bottom: -10px;
+}
+
+span.siteLogo {
+    margin-top: -10px;
+    float: left;
+}
+
+.Logo {
+    width: 100px;
+}
+
+span.siteProfile {
+    float: right;
+    margin-top: 15px;
+    margin-left: 253px;
+}
+
+.Profile {
+    width: 25px;
+}
+
+.headerSearch {
+    display: inline-block;
+    margin: auto;
+    margin-left: 200px;
+    margin-top: 15px;   
+}
+
+span.siteSearch {
+    display: inline-block;
+}
+
+.Search {
+    background-color: #F5DB9D;
+    border: none;
+    padding: 5px;
+}
+
+.searchSubmit {
+    width: 10px;
+    height: auto;
+    margin-left: -25px;
+}
+
+div.siteMenu {
+    background-color:#FBEECF;
+    padding: 15px;
+    max-width: 100%;
+}
+
+.Menu {
+    width: 15px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.menuBar {
+    width: 5%;
+}
+
+.menuItems {
+    width: 75%;
+    margin-top: -20px;
+    margin-right: 200px;
+    text-align: center;
+    float:right;
+}
+
+.Items {
+    font-family: Inter;
+    font-size: 14px;
+    padding-left: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.selected {
+    background-color: #EBD49D;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+.menuCart {
+    width: 5%;
+    float: right;
+    margin-top: -23px;
+    margin-right: -30px;
+}
+
+.Cart {
+    width: 25px;
+}
+
+.siteContent {
+    background-color: #FEF8EA;
+    height: 614px;
+}
