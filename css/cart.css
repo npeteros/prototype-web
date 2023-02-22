@@ -1,0 +1,185 @@
+.cartContainer {
+    background-color: #FBEECF;
+    width: 100%;
+    height: 548px;
+    position: absolute;
+    margin-top: 100px;
+}
+
+.cartSelected {
+    width: 5%;
+    float: right;
+    margin-top: -10px;
+    margin-right: 70px;
+}
+
+.CartSel {
+    background-color: #EBD49D;
+    padding: 8px;
+    border-radius: 10px;
+    width: 23px;
+}
+
+h1.checkOut {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+a.remove {
+    color: red;    
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    background-color: #F4F3F3;
+}
+
+.cartName {
+    border-right: 2px solid black;
+    overflow: auto;
+    width: 50%;
+}
+
+.cartPrice {
+    border-right: 2px solid black;
+    overflow: auto;
+    width: 30%;
+}
+
+.cartAction {
+    overflow: auto;
+    width: 15%;
+}
+
+.cartBook {
+    width: 15%;
+    margin: 10px;
+    float: left;
+}
+
+.bookLabel {
+    float: left;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.bookPrice {
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.bookAction {
+    color: red;
+    margin-left: 33px;
+    text-decoration: underline;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.contentName {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.contentPrice {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.contentAction {
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.whiteBG {
+    background-color: white;
+    width: 60%;
+    height: 60px;
+    margin-top: 330px;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.paymentDiv {
+    background-color: #C2C0C0;
+    border: 2px solid black;
+    width: 60%;
+    height: 60px;
+    margin-top: 350px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.paymentText {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 18px;
+    margin-left: 20px;
+    font-family: Inter;
+    float: left;
+}
+
+.paymentOptions {
+    margin-top: 18px;
+    margin-right: 500px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: italic;
+    float: right;
+}
+
+ul {
+    margin-top: 2px;
+}
+
+.paymentCash {
+    position: fixed;
+    float: left;
+    text-decoration: underline;
+}
+
+.paymentCard {
+    position: fixed;
+    float: right;
+    margin-left: 150px;
+    text-decoration: underline;
+}
+
+.paymentEWallet {
+    position: fixed;
+    float: right;
+    margin-left: 300px;
+    text-decoration: underline;
+}
+
+.checkoutContainer {
+    background-color: #FFBA1D;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 530px;
+    margin-left: 80px;
+    position: absolute;
+    width: 15%;
+    height: 60px;
+}
+
+.checkoutText {
+    font-weight: bold;
+    font-family: Arial;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 18px;
+    margin-left: 40px;
+    text-decoration: underline;
+    font-family: Inter;
+}
