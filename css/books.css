@@ -16,6 +16,20 @@
     position: absolute;
 }
 
+.bookTextContainer {
+    width: 50%;
+    height: 360px;
+    position: absolute;
+}
+
+.bookImageContainer {
+    width: 50%;
+    height: 450px;
+    margin-top: -50px;
+    position: absolute;
+    margin-left: 50%;
+}
+
 .bookTitle {
     font-size: 48px;
     line-height: 60px;
@@ -25,4 +39,85 @@
     font-family: sans-serif;
     margin-left: 80px;
     margin-top: 20px;
+}
+
+.summary {
+    font-size: 18px;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.ratingContainer {
+    width: 40%;
+    margin-left: 120px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.star {
+    width: 10%;
+}
+
+.author {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+.bookCover {
+    width: 50%;
+    margin-left: 30%;
+}
+
+.purchaseContainer {
+    background-color: #FFBA1D;
+    width: 20%;
+    height: 50px;
+    margin-top: 370px;
+    margin-left: 110px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+a.purchase {
+    color: white;
+}
+
+.purchaseText {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.scrollContainer {
+    margin-top: 400px;
+    width: 10%; 
+    margin-left: 600px;
+}
+
+.scrollSelected {
+    font-weight: bold;
+    font-size: 48px;
+    float: left;
+}
+
+.scrollEmptyOne {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 17px;
+    margin-right: 95px;
+    float: right;
+}
+
+.scrollEmptyTwo {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: -27px;
+    margin-right: 50px;
+    float: right;
 }

@@ -81,17 +81,28 @@ div.siteMenu {
     padding-left: 60px;
 }
 
+.Home {
+    font-family: Inter;
+    font-size: 16px;
+    margin-left: 0px;
+}
+
 a {
     text-decoration: none;
     color: black;
 }
 
+.Books {
+    margin-left: 60px;
+}
+
 .selected {
+    
     background-color: #EBD49D;
+    
     padding: 8px;
     border-radius: 10px;
 }
-
 
 .menuCart {
     width: 5%;

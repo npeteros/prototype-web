@@ -41,6 +41,7 @@ table {
     border-right: 2px solid black;
     overflow: auto;
     width: 50%;
+    padding: 20px;
 }
 
 .cartPrice {
