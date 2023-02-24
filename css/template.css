@@ -43,6 +43,7 @@ span.siteSearch {
     background-color: #F5DB9D;
     border-radius: 10px;
     padding: 5px;
+    
 }
 
 .searchSubmit {
@@ -94,14 +95,6 @@ a {
 
 .Books {
     margin-left: 60px;
-}
-
-.selected {
-    
-    background-color: #EBD49D;
-    
-    padding: 8px;
-    border-radius: 10px;
 }
 
 .menuCart {
